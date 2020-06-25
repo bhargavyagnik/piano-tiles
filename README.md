@@ -20,3 +20,6 @@ Then it instructs the mouse to click at the defined location and this keeps on g
 The speed this which the computer plays is astonishing also i feel the browser loosens up the game in future.
 If you want to see more such experiments then please subscibe my Youtube and also watch my video.. i need your support
 
+Check out my the video on youtube ..
+
+[![](http://img.youtube.com/vi/t8zSDAEFgh8/0.jpg)](http://www.youtube.com/watch?v=t8zSDAEFgh8 "python plays piano tiles")
