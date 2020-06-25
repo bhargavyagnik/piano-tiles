@@ -17,8 +17,7 @@ For this project i used  :-
 
 The code is very simple, it finds the maximum contour in the image and considers it as the piano tile that has to be clicked.
 Then it instructs the mouse to click at the defined location and this keeps on going until you close the game or you lose which is very rare.
-The speed this which the computer plays is astonishing also i feel the browser loosens up the game in future.
-If you want to see more such experiments then please subscibe my Youtube and also watch my video.. i need your support
+The speed this which the computer plays is astonishing also i feel the browser loosens up the game when the speed increases.
 
 Check out my the video on youtube ..
 
