@@ -1,4 +1,5 @@
 # piano-tiles
+![](https://raw.githubusercontent.com/bhargavyagnik/piano-tiles/master/img/piano_tiles.jpg)
 As a mood refresher i though to make the crack piano tiles game using Python and Open CV
 
 So today i was bored from using Youtube and listening to Mozart and thought what if i was able to create Music. !
